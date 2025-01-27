@@ -2,5 +2,7 @@
 
 To run this example:
 
-- `npm install`
-- `npm run dev`
+- `nvm install` or `fnm install`
+- `corepack enable`
+- `pnpm install`
+- `pnpm run dev`
